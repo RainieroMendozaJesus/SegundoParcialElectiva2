@@ -1,0 +1,1 @@
+{"virtualbox":{"/var/www/html":{"type":"virtualbox","guestpath":"/var/www/html","hostpath":"C:/Users/mendo/OneDrive/Documentos/Vagrantfile","disabled":false,"__vagrantfile":true}}}
